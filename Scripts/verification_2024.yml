@@ -1,0 +1,21 @@
+# This file contains all the output directories where the processed data is stored by the main running script
+
+#### DO NOT CHANGE THE VARIABLE NAMES ####
+
+plot_output_folder: "/Volumes/lexplore_hd/plots/"
+
+tchain_data_folder: "/Volumes/lexplore_hd/core_data/thermister-chain/data/Level1/"
+
+ctd_folder: "/Volumes/lexplore_hd/core_data/ctd-profiles/"
+
+pp_mooring_folder: "/Volumes/lexplore_hd/core_data/ppmooring/"
+
+pp_mooring_folder_par: "/Volumes/lexplore_hd/core_data/ppmooring/data/Level2/LexplorePPMooringPAR/"
+
+pp_mooring_folder_do: "/Volumes/lexplore_hd/core_data/ppmooring/data/Level2/LexplorePPMooringDO/"
+
+thetis_data_folder: "/Volumes/lexplore_hd/core_data/thetis-multi-instrument-profiler/data/Level2/"
+
+idronaut_data_folder: "/Volumes/lexplore_hd/core_data/idronaut-automatic-profiler/data/Level2/"
+
+scripts_folder: "/Volumes/lexplore_hd/scripts/"
